@@ -10,7 +10,7 @@ import { User } from '../user'; // interface for user
 
 export class InpDataComponent implements OnInit {
 
-  user: User = { // obj which get interface with User
+  user: User = { //obj which get interface with User
     allName: '',
     sex: '',
     birthday: '',
